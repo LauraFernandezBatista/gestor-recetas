@@ -42,3 +42,8 @@ frontend y organización de código.
     ├── package.json
     └── README.md
 
+------------------------------------------------------------------------
+
+## Instrucciones para arrancar
+
+Después de clonar el repositorio usamos npm install y npm run dev
