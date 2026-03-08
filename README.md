@@ -42,3 +42,7 @@ frontend y organización de código.
     ├── package.json
     └── README.md
 
+## Instrucciones
+
+Una vez hayamos descargado el repositorio tan solo debemos escribir en terminal npm install y npm run dev y estará listo
+
